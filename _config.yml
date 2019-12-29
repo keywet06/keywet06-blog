@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://test.keywet06.blog.wekw.cf
+url: https://keywet06.blog.wekw.cf
 root: /
 permalink: post/:title/
 permalink_defaults:
