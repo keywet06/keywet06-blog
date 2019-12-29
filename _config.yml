@@ -101,3 +101,10 @@ deploy:
   type: git
   repo: https://github.com/keywet06/keywet06-blog-public.git
   branch: master
+
+# Search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 65536
