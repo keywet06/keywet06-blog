@@ -1,5 +1,5 @@
 ---
-title: 文章一览
+title: 归档
 mathjax: true
 date: 2019-07-16 11:35:30
 type: "archives"
