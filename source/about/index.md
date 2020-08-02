@@ -8,7 +8,7 @@ keywet06
 
 Luogu: [keywet06](https://www.luogu.com.cn/user/125917)
 
-CF: ![keywet06](http://cfrating.ihcr.top/?user=keywet06)
+CF: [![keywet06](http://cfrating.ihcr.top/?user=keywet06)](//codeforces.com/profile/keywet06)
 
 博客采用 [NexT](https://theme-next.org/) 主题
 
